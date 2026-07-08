@@ -1,70 +1,72 @@
-# Writeups de OverTheWire Bandit
+# Nivel 0 → Nivel 1
 
-## Descripción
+## Objetivo
 
-Este repositorio documenta mi progreso resolviendo los desafíos de Bandit, un wargame de OverTheWire diseñado para desarrollar habilidades en Linux, Bash, SSH y administración básica de sistemas.
-
-El objetivo de este proyecto es registrar mi proceso de aprendizaje, explicar cómo resolví cada nivel y documentar los conceptos aprendidos durante el recorrido.
+Escribe aquí el objetivo del nivel.
 
 ---
 
-## Objetivos
+## Conceptos
 
-- Mejorar mis conocimientos de Linux.
-- Aprender a utilizar herramientas de línea de comandos.
-- Comprender el funcionamiento de SSH.
-- Practicar la administración de archivos y permisos.
-- Desarrollar habilidades para la resolución de problemas.
-- Construir un portafolio público de aprendizaje.
+- Concepto 1
+- Concepto 2
+- Concepto 3
 
 ---
 
-## Tecnologías utilizadas
+## Herramientas utilizadas
 
-- Linux
-- Bash
 - SSH
-- Git
-- GitHub
-- Markdown
+- Bash
 
 ---
 
-## Estructura del repositorio
+## Comandos utilizados
 
-```
-levels/
-    level0.md
-    level1.md
-    level2.md
-    ...
-
-assets/
+```bash
+ls
+cat
+find
 ```
 
 ---
 
-## Progreso
+## Desarrollo
 
-| Nivel | Estado |
-|--------|--------|
-| 0 | ✅ |
-| 1 | ⏳ |
-| 2 | ⏳ |
+Explica paso a paso cómo resolviste el desafío.
 
----
+Describe:
 
-## Aviso
-
-Este repositorio tiene fines educativos.
-
-No se publican las contraseñas obtenidas para evitar spoilers a otros estudiantes.
+- Qué encontraste.
+- Qué comandos utilizaste.
+- Por qué los utilizaste.
+- Qué resultado obtuviste.
 
 ---
 
-## Autor
+## Resultado
 
-Carlos Hernández
+Nivel completado correctamente.
 
-GitHub:
-https://github.com/RYZEKAR
+La contraseña no se publica para evitar spoilers.
+
+---
+
+## Lo que aprendí
+
+- Aprendí...
+- Comprendí...
+- Descubrí...
+
+---
+
+## Referencias
+
+- man ls
+- man cat
+
+---
+
+## Notas
+
+Escribe cualquier observación que consideres útil.
